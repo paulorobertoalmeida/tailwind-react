@@ -1,8 +1,10 @@
-# Pixabay Image Gallery - React & Tailwind CSS 
+# Deconstructing a Tailwind project to use the library
+
+Pixabay Image Gallery - React & Tailwind CSS 
 
 Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
-## Usage
+Usage
 Add your Pixabay API key to .env - https://pixabay.com/api/docs/
 
 ```
