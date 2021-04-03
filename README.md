@@ -1,4 +1,4 @@
-# Deconstructing a Tailwind project to use the library
+# Deconstructing a Tailwind project to learn how to use the library
 
 Pixabay Image Gallery - React & Tailwind CSS 
 
